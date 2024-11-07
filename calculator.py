@@ -6,5 +6,19 @@ penjumlahan(2,3)
 A=10
 B=20
 
+
+
+
+
+
+
+
+
+
+
+Bagi= A/B
+print(Bagi)
+
 jumlah= A*B
 print(jumlah)
+
